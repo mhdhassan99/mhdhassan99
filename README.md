@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a passionate software engineer with bent of an entrepreneurship.
 
+Connect with me = https://www.linkedin.com/in/muhammad-hassan-1981a31ab/
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhdhassan99&show_icons=true&theme=radical)
 
