@@ -6,6 +6,8 @@ I am a passionate software engineer with bent of an entrepreneurship.
 
 [(https://github-readme-stats.vercel.app/api?username=mhdhassan99)](https://github.com/mhdhassan99/github-readme-stats)
 
+(https://github-readme-stats.vercel.app/api?username=mhdhassan99&show_icons=true&theme=radical)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
