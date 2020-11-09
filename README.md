@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a passionate software engineer with bent of an entrepreneurship.
 
 <!--
 **mhdhassan99/mhdhassan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
